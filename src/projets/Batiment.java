@@ -5,30 +5,32 @@ public class Batiment extends Unité{
 /**
  * nom du batiment
  */
-public char nom;
+private char nom;
 
 /**
  * type du batiment
  */
-public char type;
+private char type;
 
 /**
  * attribut point de vie 
  */
-public int PointVie;
+private int PointVie;
 
 
 /**
  * attribut point de défense 
  */
-public int pointDefense;
+private int pointDefense;
 
 
 public void EntrainerUnité()
-{}
+{
+}
 
 public void EffectuerRecherche()
-{}
+{
+}
 
 
 }

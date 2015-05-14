@@ -11,32 +11,32 @@ public class unite_militaire extends Unité{
 	/**
 	 * attribut nom unité	
 	 */
-	public char nom;
+	private char nom;
 
 	/**
 	 * attribut point de vie 
 	 */
-	public int PointVie;
+	private int PointVie;
 
 	/**
 	 * attribut point de déplacement
 	 */
-	public int PointDeplacement;
+	private int PointDeplacement;
 
 	/**
 	 * attribut point d'attaque 
 	 */
-	public int pointattaque;
+	private int pointattaque;
 
 	/**
 	 * attribut point de défense 
 	 */
-	public int pointDefense;
+	private int pointDefense;
 
 	/**
 	 * attribut de la porté
 	 */
-	public int porte;
+	private int portee;
 
 	/**
 	 * methode permettant le déplacement d'une unité 

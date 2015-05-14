@@ -6,12 +6,12 @@ public class Terrain {
 /**
  * nom du terrain
  */
-public char nom;
+private char nom;
 
 /**
  * type du terrain
  */
-public char type;
+private char type;
 
 
 /**

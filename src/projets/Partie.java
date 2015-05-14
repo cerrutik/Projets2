@@ -2,7 +2,9 @@ package projets;
 
 public class Partie {
 
-	public int nbjoueurs;
+	private int nbjoueurs;
+	
+	private int equipe;
 	
 	
 }
